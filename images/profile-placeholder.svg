@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="a" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1e3a5f" />
+      <stop offset="100%" stop-color="#0b1728" />
+    </linearGradient>
+  </defs>
+  <rect width="420" height="420" rx="32" fill="url(#a)" />
+  <circle cx="210" cy="150" r="78" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)" stroke-width="6" />
+  <path d="M118 352c0-64 50-116 112-116s112 52 112 116" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)" stroke-width="6" />
+  <text x="210" y="225" text-anchor="middle" fill="#a8c5ed" font-family="Arial, Helvetica, sans-serif" font-size="24">Profile</text>
+  <text x="210" y="255" text-anchor="middle" fill="#7f9fbf" font-family="Arial, Helvetica, sans-serif" font-size="18">Placeholder</text>
+</svg>
